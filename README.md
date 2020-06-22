@@ -1,5 +1,7 @@
 # Sentiment-Analysis-of-Drug-reviews
 
+Explored various models such as ML baselines, TextRNN and HAN for sentiment analysis of drug reviews.
+
 ## Team Details
 
 ### Team Name: NoName
